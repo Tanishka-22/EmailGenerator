@@ -34,4 +34,4 @@ Contributions to the Email Generator project are welcome. Please follow these st
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com/)
 - [Cheerio](https://cheerio.js.org/)
-- [Anthropic](https://www.anthropic.com/)# email-generator
+- [Anthropic](https://www.anthropic.com/)
